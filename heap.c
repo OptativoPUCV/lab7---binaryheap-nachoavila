@@ -38,5 +38,5 @@ Heap* createHeap(){
   h->size = 0;
   h->capac = 3;
   
-   return NULL;
+   return h;
 }
